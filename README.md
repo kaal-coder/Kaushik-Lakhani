@@ -1,4 +1,4 @@
-# Kaushik-Lakhani
+## Kaushik-Lakhani
 Codathon Project
 I have created a demo website for exploring pictures of space.
 It consist a background image , Exploring Image Button and my LinkedIn Account Button.
